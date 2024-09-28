@@ -1,9 +1,9 @@
 <h2 align = "center" fontSize="60px">
-  Esse é um sistema CRUD para um modelo de loja de motos
+  Conheça Livretar
 </h2>
 
 <div align="center">
-  <img alt="Home do CRUD Motorize" src="" width="80%">
+  <img alt="Home do CRUD Livretar" src="crud_livretar/assets/Captura de tela 2024-09-28 152002.png" width="80%">
 </div>
 
   ## :rocket: Tecnologias Usadas
@@ -15,7 +15,7 @@
   -  HTML
 
   ## 💻 Sobre o projeto
-  Se trata de uma concesionaria de motos fictícia onde os compradores podem interagir com o catálogo de motos cadastradas ou adicionar suas motos a venda se assemelhando com o modelo da [WebMotors](https://www.webmotors.com.br/).
+  Livretar se trata de uma comunidade na qual você pode vender e comprar livros, além de conhecer pessoas que apreciam histórias e querem compartilhá-las (é um sistema CRUD para um uma empresa fictícia)
   
   ### Funcionalidades
 
@@ -28,5 +28,5 @@
 - [x] **Deletar**: Usuário pode deletar os itens
 
 <div align="center">
-  <img alt="Home do CRUD Motorize" src="" width="80%">
+  <img alt="Home do CRUD Motorize" src="crud_livretar/assets/Captura de tela 2024-09-28 152512.png" width="80%">
 </div>
